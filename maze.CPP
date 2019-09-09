@@ -2,7 +2,7 @@
 Developed By- Shivam Bairoliya
 Version 1.0
 Enjoy!!
-/*
+*/
 
 #include<iostream.h>
 #include<conio.h>
